@@ -1,0 +1,22 @@
+histogram untuk contunious data : height, weight, currency
+
+bar graphs untuk data kategori : Comedy, Drama
+
+Link edit di Tableu public:
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/SalesByTime/Dashboard1?publish=yes
+
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/DataPenjualan2/Dashboard1?publish=yes
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/DataPenjualan3/Dashboard1?publish=yes
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/DataPenjualan4/Dashboard1?publish=yes
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/DataPenjualan8/Dashboard1?publish=yes
+
+https://public.tableau.com/profile/arno.kurniawan#!/vizhome/DataPenjualan7/Dashboard1?publish=yes
+
+
+View Data
+https://public.tableau.com/vizql/w/DataPenjualan2/v/Dashboard1/viewData/sessions/15EEE0B672614113A9FAC01DDDF364CB-0:0/views/16126187992227925297_1599158888822703424?maxrows=200&viz={"worksheet"%3A"Sheet 2"%2C"dashboard"%3A"Dashboard 1"}
